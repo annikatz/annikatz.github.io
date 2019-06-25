@@ -109,7 +109,7 @@
             ]
         },
 	{
-            "description": "Character - Cheaty",
+            "description": "Character - Cheaty (no www.)",
             "exampleUrl": "http://infernoplus.com/royale/img/game/smb_obj.png",
             "exampleResult": "https://annikatz.github.io/SMB_Royale/Character_Cheaty.png",
             "error": null,
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "description": "Tileset - All Stars",
+            "description": "Tileset - All Stars (no www.)",
             "exampleUrl": "http://infernoplus.com/royale/img/game/smb_map.png",
             "exampleResult": "https://i.imgur.com/iCFZxMb.png",
             "error": null,
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "description": "Audio - Annie",
+            "description": "Audio - Annie (no www.)",
             "exampleUrl": "http://infernoplus.com/royale/audio/music/castle.mp3",
             "exampleResult": "https://annikatz.github.io/SMB_Royale/audio/music/castle.mp3",
             "error": null,
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "description": "Background B - SMB",
+            "description": "Background B - SMB (no www.)",
             "exampleUrl": "http://infernoplus.com/royale/img/home/bkgb.png?v=2.0.2",
             "exampleResult": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
             "error": null,
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "description": "Background A - SMB",
+            "description": "Background A - SMB (no www.)",
             "exampleUrl": "http://infernoplus.com/royale/img/home/bkga.png?v=2.0.2",
             "exampleResult": "https://cdn.discordapp.com/attachments/538849821151461386/592117969501421572/background.png",
             "error": null,
