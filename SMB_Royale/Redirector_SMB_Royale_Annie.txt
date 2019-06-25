@@ -1,0 +1,218 @@
+{
+    "createdBy": "Annie",
+    "createdAt": "2019-06-25T02:37:00.791Z",
+    "redirects": [
+        {
+            "description": "Character - Cheaty",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "exampleResult": "https://annikatz.github.io/SMB_Royale/Character_Cheaty.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/game/smb_obj.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://annikatz.github.io/SMB_Royale/Character_Cheaty.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Tileset - All Stars",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "exampleResult": "https://i.imgur.com/iCFZxMb.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/game/smb_map.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://i.imgur.com/iCFZxMb.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Audio - Annie",
+            "exampleUrl": "http://www.infernoplus.com/royale/audio/music/castle.mp3",
+            "exampleResult": "https://annikatz.github.io/SMB_Royale/audio/music/castle.mp3",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/audio/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://annikatz.github.io/SMB_Royale/audio/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Background B - SMB",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/home/bkgb.png?v=2.0.2",
+            "exampleResult": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/home/bkgb.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "Background A - SMB",
+            "exampleUrl": "http://www.infernoplus.com/royale/img/home/bkga.png?v=2.0.2",
+            "exampleResult": "https://cdn.discordapp.com/attachments/538849821151461386/592117969501421572/background.png",
+            "error": null,
+            "includePattern": "http://www.infernoplus.com/royale/img/home/bkga.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/538849821151461386/592117969501421572/background.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+	{
+            "description": "Character - Cheaty",
+            "exampleUrl": "http://infernoplus.com/royale/img/game/smb_obj.png",
+            "exampleResult": "https://annikatz.github.io/SMB_Royale/Character_Cheaty.png",
+            "error": null,
+            "includePattern": "http://infernoplus.com/royale/img/game/smb_obj.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://annikatz.github.io/SMB_Royale/Character_Cheaty.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Tileset - All Stars",
+            "exampleUrl": "http://infernoplus.com/royale/img/game/smb_map.png",
+            "exampleResult": "https://i.imgur.com/iCFZxMb.png",
+            "error": null,
+            "includePattern": "http://infernoplus.com/royale/img/game/smb_map.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://i.imgur.com/iCFZxMb.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Audio - Annie",
+            "exampleUrl": "http://infernoplus.com/royale/audio/music/castle.mp3",
+            "exampleResult": "https://annikatz.github.io/SMB_Royale/audio/music/castle.mp3",
+            "error": null,
+            "includePattern": "http://infernoplus.com/royale/audio/*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://annikatz.github.io/SMB_Royale/audio/$1",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "other"
+            ]
+        },
+        {
+            "description": "Background B - SMB",
+            "exampleUrl": "http://infernoplus.com/royale/img/home/bkgb.png?v=2.0.2",
+            "exampleResult": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "error": null,
+            "includePattern": "http://infernoplus.com/royale/img/home/bkgb.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "http://web.archive.org/web/20190620041551im_/http://www.infernoplus.com/royale/img/home/bkgb.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        },
+        {
+            "description": "Background A - SMB",
+            "exampleUrl": "http://infernoplus.com/royale/img/home/bkga.png?v=2.0.2",
+            "exampleResult": "https://cdn.discordapp.com/attachments/538849821151461386/592117969501421572/background.png",
+            "error": null,
+            "includePattern": "http://infernoplus.com/royale/img/home/bkga.png*",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://cdn.discordapp.com/attachments/538849821151461386/592117969501421572/background.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "appliesTo": [
+                "main_frame",
+                "image"
+            ]
+        }
+    ]
+}
